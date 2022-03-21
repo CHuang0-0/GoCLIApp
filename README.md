@@ -1,5 +1,5 @@
 # A Command Line (CLI) Application with Go
-A command-line interface app to decode, update &amp; encode **JSON** data (from UberEats) using Go.
+A CLI app to decode, update &amp; encode **JSON** data (from UberEats) using Go.
 
 # After downloading the folder, compile the app
 go build .
