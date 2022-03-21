@@ -5,7 +5,10 @@ A command-line interface app to decode, update &amp; encode JSON data (from Uber
 go build .
 
 # Testing features if this CLI app via terminal:
-# ./gocli get --all
-# ./gocli get --zip 94158
-# ./gocli add --name "Spices" --zip 94118 --url "https://www.ubereats.com/store/spices/lszSibfTSlu-uoUiB1g2aA" --dish "Dry Hot Pot" --mp 43.99
-# open eats.json
+./gocli get --all
+
+./gocli get --zip 94158
+
+./gocli add --name "Spices" --zip 94118 --url "https://www.ubereats.com/store/spices/lszSibfTSlu-uoUiB1g2aA" --dish "Dry Hot Pot" --mp 43.99
+
+open eats.json
