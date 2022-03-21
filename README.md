@@ -1,4 +1,4 @@
-# GoCLIApp
+# GoCLIApp for JSON Data
 A command-line interface app to decode, update &amp; encode JSON data (from UberEats) using Go.
 
 # After downloading the folder, compile the app
