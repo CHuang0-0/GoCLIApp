@@ -4,7 +4,7 @@ A command-line interface app to decode, update &amp; encode JSON data (from Uber
 # After downloading the folder, compile the app
 go build .
 
-# Testing features if this CLI app via terminal:
+# Test features of this CLI app via terminal:
 ./gocli get --all
 
 ./gocli get --zip 94158
